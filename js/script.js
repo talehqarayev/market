@@ -12,7 +12,7 @@ window.addEventListener("DOMContentLoaded", function() { // Мы всегда п
             field = document.createElement("div"),
             heading = document.createElement("h2"),
             closeBtn = document.createElement("button");
-            
+
 
             cart.classList.add("cart"),
             field.classList.add("cart-field"),
